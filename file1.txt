@@ -2,3 +2,5 @@ File
 More changes
 
 On branch
+
+On branch b2
